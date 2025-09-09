@@ -1,0 +1,19 @@
+{
+    "name": "projeto/criptografia-de-vigenere",
+    "autoload": {
+        "psr-4": {
+            "Criptografia\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arturoliveira1212",
+            "email": "arturalvesdeoliveira28@gmail.com"
+        },
+        {
+            "name": "Guilherme Rosa",
+            "email": "bealf.gui@gmail.com"
+        }
+    ],
+    "require": {}
+}
